@@ -1,9 +1,4 @@
-/*
- * LevelBoundary.cpp
- *
- *  Created on: Jan. 16, 2019
- *      Author: serge
- */
+
 
 #include "LevelBoundary.h"
 #include "Ball.h"
