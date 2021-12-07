@@ -1,9 +1,4 @@
-/*
- * ScreenBuffer.cpp
- *
- *  Created on: Jan. 9, 2019
- *      Author: serge
- */
+
 
 
 #include "ScreenBuffer.h"
