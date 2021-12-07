@@ -1,9 +1,4 @@
-/*
- * AnimationPlayer.h
- *
- *  Created on: Jan. 18, 2019
- *      Author: serge
- */
+
 
 #ifndef GRAPHICS_ANIMATIONPLAYER_H_
 #define GRAPHICS_ANIMATIONPLAYER_H_
