@@ -1,9 +1,4 @@
-/*
- * AARectangle.cpp
- *
- *  Created on: Jan. 11, 2019
- *      Author: serge
- */
+
 
 #include "AARectangle.h"
 #include "Utils.h"
