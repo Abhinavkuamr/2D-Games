@@ -1,9 +1,3 @@
-/*
- * GameScene.cpp
- *
- *  Created on: Jan. 14, 2019
- *      Author: serge
- */
 
 
 #include "GameScene.h"
