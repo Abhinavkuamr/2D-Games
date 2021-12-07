@@ -1,9 +1,4 @@
-/*
- * Vec2D.h
- *
- *  Created on: Jan. 8, 2019
- *      Author: serge
- */
+
 
 #ifndef UTILS_VEC2D_H_
 #define UTILS_VEC2D_H_
