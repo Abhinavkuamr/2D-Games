@@ -1,9 +1,4 @@
-/*
- * ButtonOptionsScene.h
- *
- *  Created on: Jan. 17, 2019
- *      Author: serge
- */
+
 
 #ifndef APP_BUTTONOPTIONSSCENE_H_
 #define APP_BUTTONOPTIONSSCENE_H_
