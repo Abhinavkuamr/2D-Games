@@ -1,9 +1,4 @@
-/*
- * NotImplmentedScene.cpp
- *
- *  Created on: Jan. 17, 2019
- *      Author: serge
- */
+
 
 #include "NotImplementedScene.h"
 #include "App.h"
