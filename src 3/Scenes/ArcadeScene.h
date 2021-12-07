@@ -1,9 +1,4 @@
-/*
- * ArcadeScene.h
- *
- *  Created on: Jan. 14, 2019
- *      Author: serge
- */
+
 
 #ifndef SCENES_ARCADESCENE_H_
 #define SCENES_ARCADESCENE_H_
