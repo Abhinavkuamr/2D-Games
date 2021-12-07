@@ -1,9 +1,4 @@
-/*
- * Ghost.cpp
- *
- *  Created on: Jan. 21, 2019
- *      Author: serge
- */
+
 
 #include "Ghost.h"
 
