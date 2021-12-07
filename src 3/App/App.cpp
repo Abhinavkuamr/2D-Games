@@ -1,9 +1,3 @@
-/*
- * App.cpp
- *
- *  Created on: Jan. 14, 2019
- *      Author: serge
- */
 
 #include "App.h"
 #include <SDL2/SDL.h>
