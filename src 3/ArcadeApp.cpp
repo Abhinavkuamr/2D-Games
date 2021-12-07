@@ -1,6 +1,6 @@
 //============================================================================
 // Name        : ArcadeApp.cpp
-// Author      : Serge Lanisquot
+// Author      : Abhinav Kumar
 // Version     :
 // Copyright   :
 // Description : Hello World in C++, Ansi-style
