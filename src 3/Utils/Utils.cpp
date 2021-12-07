@@ -1,9 +1,4 @@
-/*
- * Utils.cpp
- *
- *  Created on: Jan. 8, 2019
- *      Author: serge
- */
+
 
 #include "Utils.h"
 #include <cmath>
