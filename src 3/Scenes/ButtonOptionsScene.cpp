@@ -1,9 +1,4 @@
-/*
- * ButtonOptionsScene.cpp
- *
- *  Created on: Jan. 17, 2019
- *      Author: serge
- */
+
 
 #include "ButtonOptionsScene.h"
 #include "App.h"
