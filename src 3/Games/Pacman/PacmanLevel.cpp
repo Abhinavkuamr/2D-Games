@@ -1,9 +1,4 @@
-/*
- * PacmanLevel.cpp
- *
- *  Created on: Jan. 18, 2019
- *      Author: serge
- */
+
 
 
 #include "PacmanLevel.h"
