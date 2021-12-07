@@ -1,9 +1,4 @@
-/*
- * InputAction.h
- *
- *  Created on: Jan. 14, 2019
- *      Author: serge
- */
+
 
 #ifndef INPUT_INPUTACTION_H_
 #define INPUT_INPUTACTION_H_
