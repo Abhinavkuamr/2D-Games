@@ -1,9 +1,4 @@
-/*
- * Utils.h
- *
- *  Created on: Jan. 8, 2019
- *      Author: serge
- */
+
 
 #ifndef UTILS_UTILS_H_
 #define UTILS_UTILS_H_
