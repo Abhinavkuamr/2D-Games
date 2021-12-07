@@ -1,9 +1,3 @@
-/*
- * Circle.h
- *
- *  Created on: Jan. 11, 2019
- *      Author: serge
- */
 
 #ifndef SHAPES_CIRCLE_H_
 #define SHAPES_CIRCLE_H_
