@@ -1,9 +1,3 @@
-/*
- * AnimatedSprite.h
- *
- *  Created on: Jan. 18, 2019
- *      Author: serge
- */
 
 #ifndef GRAPHICS_ANIMATEDSPRITE_H_
 #define GRAPHICS_ANIMATEDSPRITE_H_
