@@ -1,9 +1,4 @@
-/*
- * ArcadeScene.cpp
- *
- *  Created on: Jan. 14, 2019
- *      Author: serge
- */
+
 
 #include "ArcadeScene.h"
 #include "Screen.h"
