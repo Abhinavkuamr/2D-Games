@@ -1,9 +1,4 @@
-/*
- * PacmanGame.cpp
- *
- *  Created on: Jan. 18, 2019
- *      Author: serge
- */
+
 
 #include "PacmanGame.h"
 #include "App.h"
