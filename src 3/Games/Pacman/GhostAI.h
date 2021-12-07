@@ -1,9 +1,4 @@
-/*
- * GhostAI.h
- *
- *  Created on: Jan. 21, 2019
- *      Author: serge
- */
+
 
 #ifndef GAMES_PACMAN_GHOSTAI_H_
 #define GAMES_PACMAN_GHOSTAI_H_
