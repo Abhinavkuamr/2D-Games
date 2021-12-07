@@ -1,9 +1,4 @@
-/*
- * Screen.h
- *
- *  Created on: Jan. 10, 2019
- *      Author: serge
- */
+
 
 #ifndef GRAPHICS_SCREEN_H_
 #define GRAPHICS_SCREEN_H_
