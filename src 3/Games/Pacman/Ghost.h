@@ -1,9 +1,4 @@
-/*
- * Ghost.h
- *
- *  Created on: Jan. 21, 2019
- *      Author: serge
- */
+
 
 #ifndef GAMES_PACMAN_GHOST_H_
 #define GAMES_PACMAN_GHOST_H_
