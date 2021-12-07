@@ -1,9 +1,4 @@
-/*
- * Color.cpp
- *
- *  Created on: Jan. 9, 2019
- *      Author: serge
- */
+
 
 #include "Color.h"
 #include <SDL2/SDL.h>
