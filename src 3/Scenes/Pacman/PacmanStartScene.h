@@ -1,9 +1,4 @@
-/*
- * PacmanStartScene.h
- *
- *  Created on: Jan. 18, 2019
- *      Author: serge
- */
+
 
 #ifndef SCENES_PACMAN_PACMANSTARTSCENE_H_
 #define SCENES_PACMAN_PACMANSTARTSCENE_H_
