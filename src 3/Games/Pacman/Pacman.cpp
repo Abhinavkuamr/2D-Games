@@ -1,9 +1,4 @@
-/*
- * Pacman.cpp
- *
- *  Created on: Jan. 18, 2019
- *      Author: serge
- */
+
 
 #include "Pacman.h"
 #include "Utils.h"
