@@ -1,9 +1,4 @@
-/*
- * Excluder.h
- *
- *  Created on: Jan. 16, 2019
- *      Author: serge
- */
+
 
 #ifndef GAMES_EXCLUDER_H_
 #define GAMES_EXCLUDER_H_
