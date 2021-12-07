@@ -1,9 +1,3 @@
-/*
- * Screen.cpp
- *
- *  Created on: Jan. 10, 2019
- *      Author: serge
- */
 
 
 #include "Screen.h"
