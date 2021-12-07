@@ -1,9 +1,4 @@
-/*
- * Shape.h
- *
- *  Created on: Jan. 11, 2019
- *      Author: serge
- */
+
 
 #ifndef SHAPES_SHAPE_H_
 #define SHAPES_SHAPE_H_
