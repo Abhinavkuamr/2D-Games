@@ -1,9 +1,4 @@
-/*
- * AARectangle.h
- *
- *  Created on: Jan. 11, 2019
- *      Author: serge
- */
+
 
 #ifndef SHAPES_AARECTANGLE_H_
 #define SHAPES_AARECTANGLE_H_
