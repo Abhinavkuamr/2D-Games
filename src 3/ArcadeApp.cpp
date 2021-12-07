@@ -1,9 +1,7 @@
 //============================================================================
 // Name        : ArcadeApp.cpp
 // Author      : Abhinav Kumar
-// Version     :
-// Copyright   :
-// Description : Hello World in C++, Ansi-style
+
 //============================================================================
 
 #include <iostream>
