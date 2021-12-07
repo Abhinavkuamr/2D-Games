@@ -1,9 +1,4 @@
-/*
- * BitmapFont.cpp
- *
- *  Created on: Jan. 17, 2019
- *      Author: serge
- */
+
 
 #include "BitmapFont.h"
 #include "AARectangle.h"
