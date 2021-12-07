@@ -1,9 +1,4 @@
-/*
- * BreakoutGameLevel.cpp
- *
- *  Created on: Jan. 16, 2019
- *      Author: serge
- */
+
 
 #include "BreakoutGameLevel.h"
 #include "Ball.h"
