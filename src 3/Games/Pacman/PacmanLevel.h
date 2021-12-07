@@ -1,9 +1,4 @@
-/*
- * PacmanLevel.h
- *
- *  Created on: Jan. 18, 2019
- *      Author: serge
- */
+
 
 #ifndef GAMES_PACMAN_PACMANLEVEL_H_
 #define GAMES_PACMAN_PACMANLEVEL_H_
