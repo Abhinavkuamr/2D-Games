@@ -1,9 +1,4 @@
-/*
- * BreakoutGameLevel.h
- *
- *  Created on: Jan. 16, 2019
- *      Author: serge
- */
+
 
 #ifndef GAMES_BREAKOUT_BREAKOUTGAMELEVEL_H_
 #define GAMES_BREAKOUT_BREAKOUTGAMELEVEL_H_
