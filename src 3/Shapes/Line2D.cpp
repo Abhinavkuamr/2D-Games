@@ -1,9 +1,4 @@
-/*
- * Line2D.cpp
- *
- *  Created on: Jan. 10, 2019
- *      Author: serge
- */
+
 
 #include "Line2D.h"
 #include <cmath>
