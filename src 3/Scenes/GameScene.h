@@ -1,9 +1,4 @@
-/*
- * GameScene.h
- *
- *  Created on: Jan. 14, 2019
- *      Author: serge
- */
+
 
 #ifndef SCENES_GAMESCENE_H_
 #define SCENES_GAMESCENE_H_
