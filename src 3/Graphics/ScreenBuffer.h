@@ -1,9 +1,3 @@
-/*
- * ScreenBuffer.h
- *
- *  Created on: Jan. 9, 2019
- *      Author: serge
- */
 
 #ifndef GRAPHICS_SCREENBUFFER_H_
 #define GRAPHICS_SCREENBUFFER_H_
