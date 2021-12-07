@@ -1,9 +1,3 @@
-/*
- * App.h
- *
- *  Created on: Jan. 14, 2019
- *      Author: serge
- */
 
 #ifndef APP_APP_H_
 #define APP_APP_H_
