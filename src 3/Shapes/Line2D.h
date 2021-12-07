@@ -1,9 +1,4 @@
-/*
- * Line2D.h
- *
- *  Created on: Jan. 10, 2019
- *      Author: serge
- */
+
 
 #ifndef SHAPES_LINE2D_H_
 #define SHAPES_LINE2D_H_
