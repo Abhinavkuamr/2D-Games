@@ -1,9 +1,4 @@
-/*
- * GhostAI.cpp
- *
- *  Created on: Jan. 21, 2019
- *      Author: serge
- */
+
 
 #include "GhostAI.h"
 #include "Screen.h"
