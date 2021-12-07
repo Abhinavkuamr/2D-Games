@@ -1,9 +1,3 @@
-/*
- * Animation.h
- *
- *  Created on: Jan. 17, 2019
- *      Author: serge
- */
 
 #ifndef GRAPHICS_ANIMATION_H_
 #define GRAPHICS_ANIMATION_H_
