@@ -1,9 +1,4 @@
-/*
- * Ball.h
- *
- *  Created on: Jan. 16, 2019
- *      Author: serge
- */
+
 
 #ifndef GAMES_BREAKOUT_BALL_H_
 #define GAMES_BREAKOUT_BALL_H_
