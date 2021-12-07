@@ -1,9 +1,4 @@
-/*
- * Shape.cpp
- *
- *  Created on: Jan. 11, 2019
- *      Author: serge
- */
+
 
 #include "Shape.h"
 
