@@ -1,9 +1,3 @@
-/*
- * Color.h
- *
- *  Created on: Jan. 9, 2019
- *      Author: serge
- */
 
 #ifndef GRAPHICS_COLOR_H_
 #define GRAPHICS_COLOR_H_
