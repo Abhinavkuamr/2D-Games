@@ -1,9 +1,3 @@
-/*
- * Vec2D.cpp
- *
- *  Created on: Jan. 8, 2019
- *      Author: serge
- */
 
 #include "Vec2D.h"
 #include "Utils.h"
