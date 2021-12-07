@@ -1,9 +1,4 @@
-/*
- * BitmapFont.h
- *
- *  Created on: Jan. 17, 2019
- *      Author: serge
- */
+
 
 #ifndef GRAPHICS_BITMAPFONT_H_
 #define GRAPHICS_BITMAPFONT_H_
