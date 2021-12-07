@@ -1,9 +1,3 @@
-/*
- * InputController.cpp
- *
- *  Created on: Jan. 14, 2019
- *      Author: serge
- */
 
 #include "InputController.h"
 #include <SDL2/SDL.h>
