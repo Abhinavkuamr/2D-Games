@@ -1,9 +1,3 @@
-/*
- * NotImplementedScene.h
- *
- *  Created on: Jan. 17, 2019
- *      Author: serge
- */
 
 #ifndef APP_NOTIMPLEMENTEDSCENE_H_
 #define APP_NOTIMPLEMENTEDSCENE_H_
