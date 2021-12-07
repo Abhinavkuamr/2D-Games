@@ -1,9 +1,3 @@
-/*
- * AnimatedSprite.cpp
- *
- *  Created on: Jan. 18, 2019
- *      Author: serge
- */
 
 #include "AnimatedSprite.h"
 #include "AARectangle.h"
