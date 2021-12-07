@@ -1,9 +1,4 @@
-/*
- * GameController.h
- *
- *  Created on: Jan. 14, 2019
- *      Author: serge
- */
+
 
 #ifndef INPUT_GAMECONTROLLER_H_
 #define INPUT_GAMECONTROLLER_H_
