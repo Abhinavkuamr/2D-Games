@@ -1,9 +1,4 @@
-/*
- * Block.cpp
- *
- *  Created on: Jan. 16, 2019
- *      Author: serge
- */
+
 
 #include "Block.h"
 #include "Screen.h"
