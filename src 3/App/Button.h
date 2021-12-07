@@ -1,9 +1,4 @@
-/*
- * Button.h
- *
- *  Created on: Jan. 17, 2019
- *      Author: serge
- */
+
 
 #ifndef APP_BUTTON_H_
 #define APP_BUTTON_H_
