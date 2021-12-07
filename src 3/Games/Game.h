@@ -1,9 +1,4 @@
-/*
- * Game.h
- *
- *  Created on: Jan. 14, 2019
- *      Author: serge
- */
+
 
 #ifndef GAMES_GAME_H_
 #define GAMES_GAME_H_
