@@ -1,9 +1,4 @@
-/*
- * PacmanGame.h
- *
- *  Created on: Jan. 18, 2019
- *      Author: serge
- */
+
 
 #ifndef GAMES_PACMAN_PACMANGAME_H_
 #define GAMES_PACMAN_PACMANGAME_H_
