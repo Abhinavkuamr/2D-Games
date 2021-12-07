@@ -1,9 +1,3 @@
-/*
- * Ball.cpp
- *
- *  Created on: Jan. 16, 2019
- *      Author: serge
- */
 
 #include "Ball.h"
 #include "Utils.h"
