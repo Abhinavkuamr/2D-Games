@@ -1,9 +1,4 @@
-/*
- * Scene.h
- *
- *  Created on: Jan. 14, 2019
- *      Author: serge
- */
+
 
 #ifndef SCENES_SCENE_H_
 #define SCENES_SCENE_H_
